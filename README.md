@@ -1,12 +1,12 @@
 # scavengerhunt
 
-
+I have added all the required features that are exepected in the application.
 
 GIF URL : https://imgur.com/a/SBc9amu
 
 
 
-Task List Screen
+# Task List Screen
 
 
 Users can be able to view a list of tasks to be completed.
@@ -18,7 +18,7 @@ Users can be able to tap into a task and be navigated to the task detail screen.
 Tasks that have been completed will be visually distinguished 
 
 
-Task Detail Screen:
+# Task Detail Screen:
 
 Users can be able to view the title, description, and possibly the attached photo of the task.
 
